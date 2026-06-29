@@ -32,9 +32,6 @@ Currency-Converter/
 │── code.js
 ```
 
-## 📸 Screenshot
-
-(Add a screenshot of the application here.)
 
 ## 📦 Installation
 
